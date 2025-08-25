@@ -1,1 +1,1 @@
-# portfolio-website
+Portfolio website made for hackathon applications
